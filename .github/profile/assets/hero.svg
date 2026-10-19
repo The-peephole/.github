@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 336" width="1200" height="336" role="img" aria-labelledby="title desc">
+  <title id="title">Peephole — Explore before you clone</title>
+  <desc id="desc">A blue-on-midnight abstract developer banner, featuring a repository inspection panel.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0B1224" />
+      <stop offset=".54" stop-color="#101C33" />
+      <stop offset="1" stop-color="#09182D" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#73DDF9" />
+      <stop offset="1" stop-color="#7C98FF" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1C2D4A" />
+      <stop offset="1" stop-color="#10233A" />
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1" fill="#557196" opacity=".27" />
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="336" rx="24" /></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="336" fill="url(#background)" />
+    <rect width="1200" height="336" fill="url(#dots)" opacity=".58" />
+    <circle cx="1072" cy="158" r="240" fill="#245A8D" opacity=".12" />
+    <circle cx="1124" cy="185" r="298" fill="none" stroke="#5378AD" stroke-width="1" opacity=".21" />
+    <circle cx="1086" cy="185" r="226" fill="none" stroke="#5378AD" stroke-width="1" opacity=".19" />
+    <path d="M0 294H1200" stroke="#2A4668" stroke-width="1" opacity=".45" />
+
+    <g transform="translate(55 45)">
+      <rect x="0" y="0" width="50" height="50" rx="14" fill="#183453" stroke="#4289B5" stroke-width="1.3" />
+      <rect x="12" y="12" width="26" height="26" rx="8" fill="none" stroke="#83D9FC" stroke-width="2.5" />
+      <circle cx="25" cy="25" r="5.5" fill="#83D9FC" />
+      <path d="M37 37L45 45" stroke="#83D9FC" stroke-width="3" stroke-linecap="round" />
+      <text x="67" y="35" fill="#DFE9F7" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="4">PEEPHOLE</text>
+    </g>
+
+    <text x="56" y="155" fill="#F7FAFF" font-size="53" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-1.6">Explore before</text>
+    <text x="56" y="216" fill="url(#accent)" font-size="53" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-1.6">you clone.</text>
+    <text x="59" y="257" fill="#B7C9E0" font-size="19" font-family="Arial, Helvetica, sans-serif">Repository intelligence. Isolated previews.</text>
+    <rect x="58" y="287" width="200" height="3" rx="1.5" fill="url(#accent)" />
+
+    <g transform="translate(691 31)">
+      <rect x="0" y="5" width="475" height="281" rx="17" fill="#060E1D" opacity=".38" />
+      <rect x="0" y="0" width="460" height="276" rx="17" fill="url(#panel)" stroke="#4A688A" stroke-width="1.3" />
+      <path d="M0 42H460" stroke="#445C7A" stroke-width="1" />
+      <circle cx="20" cy="21" r="4.5" fill="#ED8796" />
+      <circle cx="37" cy="21" r="4.5" fill="#EACB8D" />
+      <circle cx="54" cy="21" r="4.5" fill="#A2D7B4" />
+      <text x="79" y="27" fill="#A8BFD9" font-size="12" font-family="Arial, Helvetica, sans-serif">github.com / project</text>
+      <rect x="306" y="12" width="130" height="20" rx="10" fill="#203B58" />
+      <circle cx="319" cy="22" r="4" fill="#7BDAB8" />
+      <text x="329" y="26" fill="#CDEAD9" font-size="10" font-family="Arial, Helvetica, sans-serif" font-weight="700">ANALYSIS</text>
+
+      <g transform="translate(22 62)">
+        <text x="0" y="2" fill="#7F9CB9" font-size="10" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">DETECTED STACK</text>
+        <text x="0" y="27" fill="#E7F0FF" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">Vite + React</text>
+        <rect x="0" y="42" width="87" height="21" rx="6" fill="#28476A" />
+        <text x="12" y="57" fill="#CDE8FF" font-size="11" font-family="Arial, Helvetica, sans-serif">TypeScript</text>
+        <rect x="94" y="42" width="54" height="21" rx="6" fill="#28476A" />
+        <text x="108" y="57" fill="#CDE8FF" font-size="11" font-family="Arial, Helvetica, sans-serif">npm</text>
+        <rect x="0" y="78" width="410" height="1" fill="#344B69" />
+        <text x="0" y="103" fill="#7F9CB9" font-size="10" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">REPOSITORY STRUCTURE</text>
+        <path d="M8 121V163 M8 122H23 M8 144H23 M8 163H23" stroke="#6989AC" fill="none" stroke-width="1.4" />
+        <rect x="28" y="113" width="14" height="11" rx="2" fill="#75C9F2" />
+        <rect x="31" y="110" width="8" height="4" rx="1" fill="#75C9F2" />
+        <text x="53" y="123" fill="#D8E6F7" font-size="12" font-family="Arial, Helvetica, sans-serif">frontend/</text>
+        <rect x="28" y="135" width="14" height="11" rx="2" fill="#7C95D5" />
+        <rect x="31" y="132" width="8" height="4" rx="1" fill="#7C95D5" />
+        <text x="53" y="145" fill="#D8E6F7" font-size="12" font-family="Arial, Helvetica, sans-serif">backend/</text>
+        <path d="M30 157H41L45 162V173H30Z" stroke="#9CB1CE" fill="none" stroke-width="1.2" />
+        <text x="53" y="167" fill="#D8E6F7" font-size="12" font-family="Arial, Helvetica, sans-serif">package.json</text>
+      </g>
+      <rect x="273" y="177" width="159" height="70" rx="10" fill="#0F344B" stroke="#316B83" />
+      <circle cx="296" cy="200" r="8" fill="none" stroke="#78D5F0" stroke-width="1.8" />
+      <path d="M293 200L296 203L301 196" fill="none" stroke="#78D5F0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+      <text x="311" y="204" fill="#D9F7FF" font-size="11" font-family="Arial, Helvetica, sans-serif" font-weight="700">ELIGIBILITY</text>
+      <text x="293" y="227" fill="#A8CFE1" font-size="11" font-family="Arial, Helvetica, sans-serif">Check supported targets</text>
+    </g>
+  </g>
+</svg>
