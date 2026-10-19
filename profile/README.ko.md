@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Peephole — Explore before you clone. GitHub 공개 저장소 분석과 지원 프로젝트 미리보기" />
 </p>
-
+<p align="center">
+  <img src="./assets/peephole-128.png" width="10%" alt="Peephole Logo" />
+</p>
 <p align="center">
   <strong>클론하기 전에 GitHub 공개 저장소를 이해하세요.</strong><br />
   GitHub 안에서 기술 스택, 프로젝트 구조, 실행 요구사항, 미리보기 지원 여부를 확인할 수 있습니다.
