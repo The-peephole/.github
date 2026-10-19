@@ -2,7 +2,7 @@
   <img src="./assets/hero.svg" width="100%" alt="Peephole — Explore before you clone. Analyze public GitHub repositories and preview eligible projects in isolation." />
 </p>
 <p align="center">
-  <img src="./assets/peephole-128.png" width="100%" alt="Peephole Logo" />
+  <img src="./assets/peephole-128.png" width="30%" alt="Peephole Logo" />
 </p>
 <p align="center">
   <strong>Understand a public GitHub repository before cloning it.</strong><br />
